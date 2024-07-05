@@ -1,7 +1,9 @@
 ## Hi there 👋
+![MySQL](images/mysql-icon.png)
 
 <!--
 **MariaAma/MariaAma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
