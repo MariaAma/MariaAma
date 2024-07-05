@@ -1,4 +1,4 @@
-# Hi, I'm Maria.
+## Hi, I'm Maria.
 
 ## Welcome to my GitHub profile. Here you'll find a collection of my projects, where I combine my mathematics background with coding to create impactful solutions.
 
