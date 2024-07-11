@@ -1,6 +1,4 @@
-## Hi, I'm Maria.
-
-## Welcome to my GitHub profile. Here you'll find a collection of my projects, where I combine my mathematics background with coding to create impactful solutions.
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=964FF7&random=false&width=435&lines=Hi%2C+I'm+Maria.;Welcome+to+my+GitHub+profile." alt="Typing SVG" /></a>
 
 ## 👩‍💻 Languages:
 <div >
