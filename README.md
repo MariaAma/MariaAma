@@ -1,6 +1,4 @@
-<div class="center">
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=B60DF7&width=435&lines=%E2%9C%A8+Welcome+to+my+GitHub+Profile+%E2%9C%A8;Hi%2C+I'm+Maria;%F0%9F%91%A9%E2%80%8D%F0%9F%8E%93+A+mathematics+graduate;%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB+Working+as+an+AI+%26+Data+Engineer;%E2%9C%A8+Here%E2%80%99s+a+brief+description+of+me%3A+%E2%9C%A8" alt="Typing SVG" /></a>
-</div>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=B60DF7&center=true&width=435&lines=%E2%9C%A8+Welcome+to+my+GitHub+Profile+%E2%9C%A8;Hi%2C+I'm+Maria;%F0%9F%91%A9%E2%80%8D%F0%9F%8E%93+A+mathematics+graduate;%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB+Working+as+an+AI+%26+Data+Engineer;%E2%9C%A8+Here%E2%80%99s+a+brief+description+of+me%3A+%E2%9C%A8)](https://git.io/typing-svg)
 
 ![Main java - jv-dis - Visual Studio Code 9_28_2024 9_07_30 PM](https://github.com/user-attachments/assets/699d0e2b-2c56-47ee-8f32-f3fca7b1b3f5)
 
