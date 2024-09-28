@@ -1,3 +1,5 @@
+![Main java - jv-dis - Visual Studio Code 9_28_2024 9_07_30 PM](https://github.com/user-attachments/assets/699d0e2b-2c56-47ee-8f32-f3fca7b1b3f5)
+
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=964FF7&random=false&width=435&lines=Hi%2C+I'm+Maria.;Welcome+to+my+GitHub+profile." alt="Typing SVG" /></a>
 
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=&pause=1000&color=E5E33C&width=435&lines=%F0%9F%91%A9%E2%80%8D%F0%9F%92%BBLanguages%3A)](https://git.io/typing-svg)
