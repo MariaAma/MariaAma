@@ -3,8 +3,10 @@
 ![Main java - jv-dis - Visual Studio Code 9_28_2024 9_07_30 PM](https://github.com/user-attachments/assets/699d0e2b-2c56-47ee-8f32-f3fca7b1b3f5)
 
 
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=&pause=1000&color=E5E33C&width=435&lines=%F0%9F%91%A9%E2%80%8D%F0%9F%92%BBLanguages%3A)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=B60DF7&center=true&width=900&lines=%F0%9F%91%A9%E2%80%8D%F0%9F%92%BBProgramming+Languages;%7C;Learning+Programming+Languages%3A" alt="Typing SVG" /></a>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/> </a>  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/> </a>  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50"/> </a>
+|
+<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="C++" width="50" height="50"/> </a>
 
 <!--
 **MariaAma/MariaAma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
