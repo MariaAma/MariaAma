@@ -5,8 +5,9 @@
 
 ![Main java - jv-dis - Visual Studio Code 9_28_2024 9_07_30 PM](https://github.com/user-attachments/assets/699d0e2b-2c56-47ee-8f32-f3fca7b1b3f5)
 
-**MariaAma/MariaAma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+<!--
+**MariaAma/MariaAma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
