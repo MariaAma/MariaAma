@@ -1,6 +1,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=B60DF7&center=true&width=900&lines=%E2%9C%A8Welcome+to+my+Github+Profile%E2%9C%A8;Hi%2C+I'm+Maria;%F0%9F%91%A9%E2%80%8D%F0%9F%8E%93+A+Mathematics+graduate;%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB+Working+as+an+AI+%26+Data+Engineer" alt="Typing SVG" /></a>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=B60DF7&center=true&width=900&lines=%F0%9F%91%A9%E2%80%8D%F0%9F%92%BBProgramming+Languages;%26;Learning+Programming+Languages%3A" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&pause=1000&color=B60DF7&center=true&width=435&lines=%F0%9F%91%A9%E2%80%8D%F0%9F%92%BBProgramming+Languages%3A" alt="Typing SVG" /></a>
 <div align="center">
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/> </a>  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/> </a>  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50"/> </a>
   &
