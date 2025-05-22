@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=B60DF7&center=true&width=900&lines=%E2%9C%A8Welcome+to+my+Github+Profile%E2%9C%A8;Hi%2C+I'm+Maria;%F0%9F%91%A9%E2%80%8D%F0%9F%8E%93+A+Mathematics+graduate;%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB+Working+as+a+%26+Data+Engineer" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=B60DF7&center=true&width=900&lines=%E2%9C%A8Welcome+to+my+Github+Profile%E2%9C%A8;Hi%2C+I'm+Maria;%F0%9F%91%A9%E2%80%8D%F0%9F%8E%93+A+Mathematics+graduate;%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB+Working+as+a+Data+Engineer" alt="Typing SVG" /></a>
 
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&pause=1000&color=B60DF7&center=true&width=900&lines=%F0%9F%91%A9%E2%80%8D%F0%9F%92%BBProgramming+Languages%3A" alt="Typing SVG" /></a> 
